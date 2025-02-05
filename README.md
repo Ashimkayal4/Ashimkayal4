@@ -1,5 +1,5 @@
 <p>
-<img src="https://i.ibb.co.com/RGpp5xBm/DALL-E-2025-02-05-12-08-18-A-sleek-modern-tech-themed-banner-for-a-web-developer-named-Ashim-Kayal-T.webp">
+  <img src="https://i.ibb.co.com/8g53sZN1/DALL-E-2025-02-05-12-19-16-A-sleek-modern-tech-themed-banner-for-a-web-developer-named-Ashim-Kayal-T.webp">
 </p>
 
 # Ashim Kayal | Web Developer  
